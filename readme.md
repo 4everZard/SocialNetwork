@@ -1,6 +1,5 @@
-# ECE 356 Final Project: Social Network
+# Social Network
 
-Member: Jiayu Wu (20604846)     Guangyu Wu (20637246)
 
 This project is used to simulate a simple social network system. It uses Mysql as database storage and has a CLI client with a set of well-defined APIs for clients.
 
@@ -111,4 +110,4 @@ This project is used to simulate a simple social network system. It uses Mysql a
     - If a user has successfully commented on a post, a new entry will be inserted to Post_Comment table to link commentID and postID
     
 ## Authors
-    Jiayu Wu,   Guangyu Wu
+    Jiayu Wu
